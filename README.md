@@ -1,347 +1,589 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         GITHUB PROFILE // SYSTEM                            ║
-║   Antes de publicar, use Ctrl+H e substitua:                               ║
-║   SEU_USUARIO | SEU_NOME | SEU_LINKEDIN | SEU_INSTAGRAM                    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
+<!-- =========================================================
+     GITHUB PROFILE // BRAYAN
+     Troque apenas:
+     SEU_USUARIO
+     SEU_LINKEDIN
+     SEU_INSTAGRAM
+========================================================= -->
 
 <div align="center">
 
-<!-- ============================== SYSTEM BOOT ============================== -->
+# `> BRAYAN.DEV`
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=850&pause=250&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=105&lines=%5BSYSTEM%5D+Initializing+developer+profile...;%5BCORE%5D+Loading+Java+%7C+MySQL+%7C+Web+Development...;%5BNETWORK%5D+Connecting+to+GitHub...;%5BSTATUS%5D+SENAI.DEV+NODE+ONLINE+%E2%9C%93"
-alt="System boot sequence"
-/>
+### `DESENVOLVIMENTO DE SISTEMAS // SENAI`
 
-<br>
+```text
+[SYSTEM] Initializing developer profile...
+[CORE]   Loading technologies...
+[SENAI]  Development Systems detected...
+[USER]   BRAYAN connected...
+[STATUS] ONLINE ✓
+```
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PROFILE-DEV_NODE-7C3AED?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FOCUS-BUILD_%E2%80%A2_LEARN_%E2%80%A2_EVOLVE-1F6FEB?style=for-the-badge&labelColor=0D1117" />
+### `BUILD • TEST • DEBUG • COMMIT • EVOLVE`
 
-<br><br>
+---
 
-> Brayan_Biazini.exe
+**Desenvolvedor de Sistemas em formação**
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2300&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Desenvolvedor+de+Sistemas+em+forma%C3%A7%C3%A3o;2%C2%BA+e+%C3%BAltimo+ano+no+SENAI;MySQL+%2F+Banco+de+Dados;Java+%26+CSS+%3A%3A+loading...;Transformando+estudo+em+projetos+reais"
-alt="Typing animation"
-/>
+`2º e último ano • SENAI`
 
-<sub>
-  <code>student://senai</code> •
-  <code>track://desenvolvimento-de-sistemas</code> •
-  <code>mode://continuous-learning</code>
-</sub>
+`MySQL` • `Java` • `HTML` • `CSS` • `Dart` • `Flutter`
 
 </div>
 
-<br>
+---
 
-◈ 01 // SOBRE_MIM
+# `01 // SOBRE_MIM`
 
-profile:
-  formacao: "Desenvolvimento de Sistemas — SENAI"
-  etapa: "2º ano • último ano"
-  foco_principal:
-    - "Banco de Dados"
+```yaml
+developer:
+  nome: "Brayan Albuquerque"
+
+  formacao:
+    curso: "Desenvolvimento de Sistemas"
+    instituicao: "SENAI"
+    etapa: "2º e último ano"
+
+  conhecimentos:
     - "MySQL"
+    - "Banco de Dados"
+    - "Lógica de Programação"
     - "Desenvolvimento de Software"
 
-  aprendendo_agora:
+  aprendendo:
     - "Java"
     - "CSS"
+    - "HTML"
+    - "Flutter"
+    - "Dart"
+    - "Back-End"
+    - "Front-End"
 
-  base_web:
-    html: "básico"
-    css: "em evolução"
+  objetivo:
+    - "Evoluir como desenvolvedor"
+    - "Criar projetos completos"
+    - "Aumentar meu conhecimento"
+    - "Construir um portfólio profissional"
 
-  projetos:
-    - "Projetos acadêmicos"
-    - "PEND"
-    - "Aplicações com banco de dados"
+  status: "ONLINE"
+```
 
-  status: "Em constante evolução"
+> `SYSTEM.LOG`  
+> Atualmente estou cursando o último ano de Desenvolvimento de Sistemas no SENAI, desenvolvendo conhecimentos em programação, banco de dados, desenvolvimento web, mobile, testes e projetos de software.
 
-SYSTEM.LOG — Construindo uma base sólida em desenvolvimento de sistemas, banco de dados e lógica de programação, enquanto avanço em Java, CSS e projetos completos de software.
+---
 
-◈ 02 // TECH_STACK
+# `02 // TECH_STACK`
+
+## `> DATABASE`
+
+```text
+┌────────────────────────────────────┐
+│                                    │
+│  MySQL................... ACTIVE   │
+│  SQL..................... ACTIVE   │
+│  Banco de Dados.......... ACTIVE   │
+│  Modelagem de Dados...... ACTIVE   │
+│                                    │
+└────────────────────────────────────┘
+```
+
+## `> DEVELOPMENT`
+
+```text
+┌────────────────────────────────────┐
+│                                    │
+│  Java.................... LEARNING │
+│  HTML.................... BASIC    │
+│  CSS..................... LEARNING │
+│  Dart.................... LEARNING │
+│  Flutter................. LEARNING │
+│                                    │
+└────────────────────────────────────┘
+```
+
+## `> SOFTWARE`
+
+```text
+┌────────────────────────────────────┐
+│                                    │
+│  Back-End................ LEARNING │
+│  Front-End............... LEARNING │
+│  Desenvolvimento Mobile.. LEARNING │
+│  Projeto de Software..... ACTIVE   │
+│  Testes de Software...... ACTIVE   │
+│                                    │
+└────────────────────────────────────┘
+```
+
+---
+
+# `03 // FERRAMENTAS`
+
+```text
+DEV_TOOLS
+│
+├── VS Code
+│
+├── Git
+│
+├── GitHub
+│
+├── GitHub Codespaces
+│
+├── MySQL
+│
+├── MySQL Workbench
+│
+├── Terminal
+│
+└── Flutter / Dart
+```
+
+---
+
+# `04 // SENAI_LEARNING_PATH`
+
+```text
+SENAI://DESENVOLVIMENTO_DE_SISTEMAS
+
+│
+├── LOPAL
+│   └── Lógica de Programação e Algoritmos
+│
+├── SOP
+│   └── Sistemas Operacionais
+│
+├── ARI
+│   └── Arquitetura de Redes com IoT
+│
+├── LER
+│   └── Levantamento de Requisitos
+│
+├── BCD
+│   └── Banco de Dados
+│
+├── PBE I
+│   └── Programação Back-End
+│
+├── PBE II
+│   └── Programação Back-End
+│
+├── PEND
+│   └── Programação Front-End
+│
+├── PSOF I
+│   └── Projetos de Software
+│
+├── PSOF II
+│   └── Projetos de Software
+│
+├── TSOF
+│   └── Testes de Software
+│
+├── ITCOI
+│   └── Internet das Coisas
+│
+├── PBE2
+│   └── Programação Back-End
+│
+└── PPDM
+    └── Programação para Dispositivos Móveis
+        │
+        ├── Dart
+        └── Flutter
+```
+
+---
+
+# `05 // PROJETOS`
+
+## `01 // PEND`
+
+```text
+PROJECT....... PEND
+AREA.......... FRONT-END
+ORIGIN........ SENAI
+STATUS........ IN DEVELOPMENT
+```
+
+Projeto acadêmico desenvolvido durante o curso de Desenvolvimento de Sistemas.
+
+Utilizado para aplicar conceitos de:
+
+- Desenvolvimento Front-End
+- Estrutura de páginas
+- Interfaces
+- Organização de projeto
+- Integração entre funcionalidades
+
+---
+
+## `02 // PPDM`
+
+```text
+PROJECT....... MOBILE DEVELOPMENT
+AREA.......... PPDM
+STACK......... FLUTTER / DART
+ORIGIN........ SENAI
+STATUS........ LEARNING
+```
+
+Desenvolvimento de aplicações para dispositivos móveis.
+
+Conteúdos estudados:
+
+- Flutter
+- Dart
+- Widgets
+- StatefulWidget
+- StatelessWidget
+- Navegação
+- Rotas
+- Formulários
+- TextField
+- Armazenamento local
+- SharedPreferences
+- Interfaces mobile
+
+---
+
+## `03 // BACK-END LAB`
+
+```text
+PROJECT....... BACK-END LAB
+AREA.......... SERVER
+DATABASE...... MYSQL
+STATUS........ EVOLVING
+```
+
+Estudos voltados ao funcionamento da parte lógica e de dados das aplicações.
+
+```text
+INPUT
+  │
+  ▼
+BACK-END
+  │
+  ├── Lógica
+  ├── Processamento
+  ├── Banco de Dados
+  └── Regras do Sistema
+  │
+  ▼
+OUTPUT
+```
+
+---
+
+## `04 // DATABASE LAB`
+
+```text
+PROJECT....... DATABASE LAB
+SYSTEM........ MYSQL
+STATUS........ ACTIVE
+```
+
+Conhecimentos praticados:
+
+```sql
+CREATE DATABASE
+
+CREATE TABLE
+
+SELECT
+
+INSERT
+
+UPDATE
+
+DELETE
+
+WHERE
+
+JOIN
+
+PRIMARY KEY
+
+FOREIGN KEY
+```
+
+Além de:
+
+- Modelagem de banco de dados
+- Relacionamentos
+- CRUD
+- Organização de informações
+- Consultas SQL
+
+---
+
+# `06 // CURRENT_OBJECTIVES`
+
+```console
+┌──[brayan@senai]─[~/development]
+│
+└─$ ./current_goals.sh
+
+[01] Aprender Java
+     ██████████░░░░░░░░░░
+     STATUS: PROCESSING
+
+[02] Melhorar CSS
+     ██████████░░░░░░░░░░
+     STATUS: PROCESSING
+
+[03] Evoluir no HTML
+     ████████░░░░░░░░░░░░
+     STATUS: PROCESSING
+
+[04] Aprofundar MySQL
+     ████████████████░░░░
+     STATUS: RUNNING
+
+[05] Evoluir no Back-End
+     ███████████░░░░░░░░░
+     STATUS: PROCESSING
+
+[06] Melhorar em Flutter
+     ███████████░░░░░░░░░
+     STATUS: PROCESSING
+
+[07] Aprender mais Dart
+     ██████████░░░░░░░░░░
+     STATUS: PROCESSING
+
+[08] Criar projetos completos
+     █████████░░░░░░░░░░░
+     STATUS: PROCESSING
+
+[09] Melhorar meu GitHub
+     ████████████░░░░░░░░
+     STATUS: RUNNING
+
+----------------------------------------
+
+SYSTEM STATUS........ ONLINE
+LEARNING MODE........ ENABLED
+DEV MODE............. ENABLED
+NEXT CHECKPOINT...... +1 COMMIT
+```
+
+---
+
+# `07 // KNOWLEDGE_STATUS`
+
+| Tecnologia | Progresso |
+| :--- | :--- |
+| MySQL | `████████░░` |
+| Banco de Dados | `████████░░` |
+| Git / GitHub | `██████░░░░` |
+| Flutter | `█████░░░░░` |
+| Dart | `█████░░░░░` |
+| Java | `█████░░░░░` |
+| CSS | `█████░░░░░` |
+| HTML | `████░░░░░░` |
+| Back-End | `█████░░░░░` |
+| Front-End | `████░░░░░░` |
+
+> Os níveis acima representam apenas meu progresso atual de aprendizado e não um nível profissional oficial.
+
+---
+
+# `08 // DEVELOPMENT_WORKFLOW`
+
+```text
+┌─────────────┐
+│    IDEIA    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ PLANEJAMENTO│
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   CÓDIGO    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    TESTE    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    DEBUG    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   COMMIT    │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   EVOLUÇÃO  │
+└─────────────┘
+```
+
+---
+
+# `09 // GITHUB_SYSTEM`
+
+```console
+brayan@github:~$ git status
+
+On branch main
+
+Changes detected:
+
+    modified:   knowledge.java
+    modified:   database.sql
+    modified:   frontend.css
+    modified:   mobile.dart
+    modified:   experience.dev
+
+brayan@github:~$ git add .
+
+brayan@github:~$ git commit -m "keep evolving"
+
+[main] Developer evolution +1
+
+5 files changed
+knowledge increased
+experience increased
+```
+
+---
+
+# `10 // ROADMAP`
+
+```text
+2026
+ │
+ ├── [✓] Estudar Banco de Dados
+ │
+ ├── [✓] Aprender MySQL
+ │
+ ├── [✓] Trabalhar com GitHub
+ │
+ ├── [✓] Desenvolver projetos no SENAI
+ │
+ ├── [>] Aprender Java
+ │
+ ├── [>] Evoluir em CSS
+ │
+ ├── [>] Evoluir em HTML
+ │
+ ├── [>] Melhorar no Back-End
+ │
+ ├── [>] Evoluir em Flutter
+ │
+ ├── [>] Evoluir em Dart
+ │
+ ├── [ ] Criar projetos pessoais maiores
+ │
+ ├── [ ] Montar portfólio completo
+ │
+ └── [ ] Entrar profissionalmente na área de DEV
+```
+
+---
+
+# `11 // PROFILE_DATA`
+
+```json
+{
+  "user": "Brayan",
+  "role": "Developer Student",
+  "institution": "SENAI",
+  "course": "Desenvolvimento de Sistemas",
+  "year": "2º / último",
+  "main_database": "MySQL",
+  "learning": [
+    "Java",
+    "CSS",
+    "HTML",
+    "Flutter",
+    "Dart",
+    "Back-End",
+    "Front-End"
+  ],
+  "status": "online",
+  "learning_mode": true
+}
+```
+
+---
+
+# `12 // SOCIAL_NETWORK`
+
+```text
+NETWORK STATUS
+
+GitHub......... CONNECTED
+LinkedIn....... AVAILABLE
+Instagram...... AVAILABLE
+```
+
+### GitHub
+
+https://github.com/SEU_USUARIO
+
+### LinkedIn
+
+SEU_LINKEDIN
+
+### Instagram
+
+SEU_INSTAGRAM
+
+---
 
 <div align="center">
 
-CORE // DATABASE
+# `SYSTEM // FINAL_STATUS`
 
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Banco_de_Dados-0D1117?style=for-the-badge&logo=database&logoColor=1F6FEB" />
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║          DEVELOPER SYSTEM                ║
+║                                          ║
+║  USER............. BRAYAN                ║
+║  ROLE............. DEV STUDENT           ║
+║  INSTITUTE........ SENAI                 ║
+║  COURSE........... DEV SYSTEMS           ║
+║                                          ║
+║  DATABASE......... MYSQL                 ║
+║  JAVA............. LEARNING              ║
+║  FRONT-END........ LEARNING              ║
+║  BACK-END......... LEARNING              ║
+║  MOBILE........... LEARNING              ║
+║                                          ║
+║  STATUS........... ONLINE                ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
 
-LEARNING // DEVELOPMENT
+### `> LEARN`
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=1F6FEB" />
+### `> BUILD`
 
-ENGINEERING // CONCEPTS
+### `> TEST`
 
-<img src="https://img.shields.io/badge/Projeto_de_Software-0D1117?style=for-the-badge&logo=blueprint&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-0D1117?style=for-the-badge&logo=codeforces&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Modelagem_de_Dados-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=1F6FEB" />
+### `> DEBUG`
 
-</div>
+### `> EVOLVE`
 
-◈ 03 // FERRAMENTAS
+---
 
-<div align="center">
+`One commit at a time.`
 
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=7C3AED" />
+**BRAYAN.DEV // SENAI // 2026**
 
-</div>
-
-<br>
-
-<div align="center">
-
-CODE ▸ TEST ▸ DEBUG ▸ COMMIT ▸ EVOLVE
-
-</div>
-
-◈ 04 // PROJETOS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-01 // PEND
-
-Projeto acadêmico em desenvolvimento
-
-Projeto do SENAI voltado à prática de desenvolvimento de software, integração entre partes do sistema e aplicação dos conhecimentos adquiridos durante o curso.
-
-STATUS: 🟣 EM DESENVOLVIMENTO
-
-Foco
-
-Estrutura de projeto
-
-Integração
-
-Banco de dados
-
-Desenvolvimento em equipe
-
-</td>
-<td width="50%" valign="top">
-
-02 // DATABASE LAB
-
-Estudos e projetos com MySQL
-
-Ambiente dedicado à prática de banco de dados, modelagem, criação de tabelas, consultas e manipulação de informações com SQL.
-
-STATUS: 🔵 EVOLUINDO
-
-Foco
-
-MySQL
-
-Modelagem de dados
-
-Consultas SQL
-
-CRUD
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-03 // JAVA LEARNING
-
-Java Development Path
-
-Repositório para consolidar lógica, sintaxe, orientação a objetos e construção gradual de aplicações utilizando Java.
-
-STATUS: 🟦 LEARNING
-
-Foco
-
-Fundamentos
-
-Lógica
-
-POO
-
-Boas práticas
-
-</td>
-<td width="50%" valign="top">
-
-04 // WEB INTERFACE
-
-HTML + CSS
-
-Laboratório para desenvolver minha base em interfaces web, evoluindo do HTML básico para páginas mais organizadas, responsivas e estilizadas.
-
-STATUS: 🟪 LOADING
-
-Foco
-
-HTML
-
-CSS
-
-Layout
-
-Responsividade
-
-</td>
-</tr>
-</table>
-
-Quando você criar repositórios públicos para esses projetos, troque estes cards por links diretos ou por cards do GitHub Readme Stats.
-
-◈ 05 // CURRENT_OBJECTIVES
-
-┌──[dev@senai]─[~/roadmap]
-└─$ ./current-goals.sh
-
-[01] ███████████████████░  aprofundar MySQL e banco de dados
-[02] ████████████░░░░░░░  evoluir em Java
-[03] ██████████░░░░░░░░░  dominar CSS
-[04] ███████░░░░░░░░░░░░  fortalecer HTML
-[05] ███████████░░░░░░░░  entender melhor arquitetura de software
-[06] █████████░░░░░░░░░░  construir projetos completos
-[07] █████████████░░░░░░  transformar conhecimento em portfólio
-
-> STATUS: PROCESSING...
-> NEXT_CHECKPOINT: +1 commit
-> FAILURE_MODE: disabled
-> LEARNING_MODE: enabled
-
-◈ 06 // GITHUB_ANALYTICS
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=7C3AED&border_color=1F6FEB&border_radius=12"
-    alt="GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&border_color=1F6FEB&border_radius=12"
-    alt="Top Languages"
-  />
-</a>
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO">
-  <img
-    src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0D1117&border=1F6FEB&stroke=00F7FF&ring=7C3AED&fire=00F7FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F7FF&sideLabels=8B949E&dates=8B949E"
-    alt="GitHub Streak"
-  />
-</a>
-
-</div>
-
-◈ 07 // ACTIVITY_GRAPH
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&custom_title=SYSTEM%20ACTIVITY%20%2F%2F%20LAST%2031%20DAYS"
-alt="GitHub Activity Graph"
-/>
-
-</div>
-
-◈ 08 // TROPHY_ROOM
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1"
-alt="GitHub Trophies"
-/>
-
-</div>
-
-◈ 09 // CONTRIBUTION_SNAKE
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-
-</div>
-
-◈ 10 // NETWORK
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
-</a>
-
-<a href="SEU_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=7C3AED" />
-</a>
-
-</div>
-
-<div align="center">
-
-SYSTEM // END OF TRANSMISSION
-
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   USER      : Brayan_Biazini                         │
-│   ROLE      : DEVELOPMENT SYSTEMS STUDENT            │
-│   INSTITUTE : SENAI                                  │
-│   STATUS    : ONLINE                                 │
-│   MISSION   : LEARN • BUILD • EVOLVE                 │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=720&lines=One+commit+at+a+time.;Building+the+future+from+the+terminal.;%3E+Connection+secured.+Session+active."
-alt="Footer typing"
-/>
-
-<br>
-
-<sub>
-  `© DEV.NODE` • powered by curiosity, code and continuous learning
-</sub>
+`SESSION STATUS: ACTIVE`
 
 </div>
