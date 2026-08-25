@@ -23,7 +23,7 @@ alt="System boot sequence"
 
 <br><br>
 
-> SEU_NOME.exe
+> Brayan_Biazini.exe
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2300&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Desenvolvedor+de+Sistemas+em+forma%C3%A7%C3%A3o;2%C2%BA+e+%C3%BAltimo+ano+no+SENAI;MySQL+%2F+Banco+de+Dados;Java+%26+CSS+%3A%3A+loading...;Transformando+estudo+em+projetos+reais"
@@ -325,7 +325,7 @@ SYSTEM // END OF TRANSMISSION
 
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│   USER      : SEU_NOME                               │
+│   USER      : Brayan_Biazini                         │
 │   ROLE      : DEVELOPMENT SYSTEMS STUDENT            │
 │   INSTITUTE : SENAI                                  │
 │   STATUS    : ONLINE                                 │
