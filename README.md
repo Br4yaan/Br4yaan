@@ -1,6 +1,6 @@
 <!--
 ===============================================================================
-  BRAYAN.DEV // GITHUB PROFILE  (v4)
+  BRAYAN.DEV // GITHUB PROFILE  (v5)
 
   ANTES DE PUBLICAR (Ctrl + H, "Substituir tudo"):
     1. SEU_LINKEDIN  -> URL completa do seu LinkedIn
@@ -14,7 +14,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:7C3AED,100:00F7FF&text=BRAYAN%20ALBUQUERQUE&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20Mobile%20%C2%B7%20Back-End&descAlignY=58&descSize=17&animation=fadeIn" alt="Brayan Albuquerque" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=860&lines=Do+banco+de+dados+at%C3%A9+a+tela+do+celular;MySQL+%C2%B7+PHP+%C2%B7+Flutter+%C2%B7+Dart+%C2%B7+Node.js;Estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI;Aberto+a+est%C3%A1gio+e+primeira+oportunidade+em+DEV" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=860&lines=Do+banco+de+dados+at%C3%A9+a+tela+do+celular;MySQL+%C2%B7+PHP+%C2%B7+Flutter+%C2%B7+Dart+%C2%B7+Python+%C2%B7+Node.js;Estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI;Aberto+a+est%C3%A1gio+e+primeira+oportunidade+em+DEV" alt="Typing" />
 
 <br>
 
@@ -78,15 +78,13 @@ Cadastro e gerenciamento de clientes, desenvolvido nas aulas do SENAI com **PHP 
 ### ⚽ Simulador da Fase de Grupos: Copa 2026
 **PPDM · Dart puro · CLI · Concluído**
 
-Simulador via terminal: registro de resultados e **classificação com os critérios oficiais de desempate**.
+Simulador via terminal de um grupo da Copa: registro de resultados e **classificação com os critérios oficiais de desempate** (saldo de gols, gols pró, confronto direto, fair play e ranking FIFA).
 
 - Modelagem com classes e `enum`
 - Ordenação customizada com `.sort()`
 - Carregamento assíncrono e tratamento de erros (`try/catch`)
 
-`Dart`
-
-Repositório: **EM BREVE**
+`Dart` · Repositório: **EM BREVE**
 
 </td>
 </tr>
@@ -96,9 +94,14 @@ Repositório: **EM BREVE**
 ### 📱 DevFolio App
 **PPDM · Flutter / Dart · Em desenvolvimento**
 
-Aplicativo mobile de portfólio profissional, projeto final da matéria. Reúne **tela de perfil/crachá** e **dashboard de métricas e projetos**, com widgets reutilizáveis e layout responsivo.
+Aplicativo mobile de portfólio profissional, projeto final da matéria. Duas telas principais, **Perfil** e **Dashboard** de métricas e projetos, construídas com componentes reutilizáveis.
 
-`Flutter` `Dart` `Material` · Repositório: **EM BREVE**
+- Tema visual centralizado com **Material Design 3**
+- Layout responsivo com `LayoutBuilder`: navegação lateral em telas largas e inferior em telas menores
+- `GridView`, `Wrap`, `Stack`, `Positioned`, `Card` e `AnimatedSwitcher`
+- Cuidado com overflow em textos e áreas roláveis
+
+`Flutter` `Dart` `Material 3` · Repositório: **EM BREVE**
 
 </td>
 </tr>
@@ -116,8 +119,8 @@ Aplicativo mobile de portfólio profissional, projeto final da matéria. Reúne 
 **[Pizzaria DB](https://github.com/Br4yaan/pizzaria.db)** · `PHP` `MySQL` · Concluído
 Cadastro, listagem e edição de clientes com CRUD, conectando PHP ao MySQL.
 
-**MPDWorks: Sua Casa Sempre** · `Node.js` `Express` `MySQL` `HTML` `CSS`
-Projeto acadêmico amplo que envolve Back-End, banco de dados e interface web. Passou por mudança de estratégia de dados, de uma configuração inicial com MongoDB para scripts SQL no MySQL.
+**MPDWorks: Sua Casa Sempre** · `Node.js` `Express` `MySQL` `HTML` `CSS` · Em andamento
+Sistema de serviços de manutenção residencial com Back-End, banco de dados e interface web. O Back-End começou com Node.js, Express, MongoDB e JWT, e a modelagem de dados migrou depois para scripts SQL no MySQL (incluindo tabelas de estoque de materiais, categorias de produto e fornecedores). A interface foi desenvolvida em HTML e CSS, seguindo uma proposta visual feita no Figma.
 
 </details>
 
@@ -126,19 +129,25 @@ Projeto acadêmico amplo que envolve Back-End, banco de dados e interface web. P
 
 <br>
 
-Exercícios, provas práticas e estudos da matéria, do layout básico até gerenciamento de estado:
+**Estado e navegação**
+
+- **[Provider + ChangeNotifier](https://github.com/Br4yaan/012-Atividade-Aula-12-Provider-ChangeNotifier)**: catálogo de produtos conectado a um carrinho. Adiciona e remove itens, atualiza quantidade e valor total em tempo real. Conceitos: `ChangeNotifier`, `ChangeNotifierProvider`, `Consumer` e separação entre modelo e estado.
+- **[navegacao_app](https://github.com/Br4yaan/navegacao_app)**: lista de produtos e tela de detalhes. Conceitos: `Navigator.push()`, `Navigator.pop()`, `MaterialPageRoute`, passagem de dados por construtor e retorno de resultado para a tela anterior.
+
+**Dart puro**
+
+- **[dartpedia](https://github.com/Br4yaan/dartpedia)**: aplicação de linha de comando organizada em `bin/`, `lib/` e testes, com um pacote interno `command_runner` para comandos e argumentos.
+
+**Interface e layout**
 
 | Repositório | Tema |
 |:--|:--|
-| [**012-Atividade-Aula-12-Provider-ChangeNotifier**](https://github.com/Br4yaan/012-Atividade-Aula-12-Provider-ChangeNotifier) | Gerenciamento de estado com Provider e ChangeNotifier |
 | [**cep_app**](https://github.com/Br4yaan/cep_app) | Consulta de CEP |
-| [**navegacao_app**](https://github.com/Br4yaan/navegacao_app) | Navegação entre telas |
-| [**birdle**](https://github.com/Br4yaan/birdle) | Jogo de palavras |
-| [**cracha_app**](https://github.com/Br4yaan/cracha_app) · [**prova_cracha_app**](https://github.com/Br4yaan/prova_cracha_app) | Tela de crachá/perfil |
-| [**layout_app**](https://github.com/Br4yaan/layout_app) · [**atividade_layout**](https://github.com/Br4yaan/atividade_layout) · [**prova_layout_app**](https://github.com/Br4yaan/prova_layout_app) | Layout com widgets |
-| [**ppdm-layout-widgets**](https://github.com/Br4yaan/ppdm-layout-widgets) | Widgets de layout |
+| [**birdle**](https://github.com/Br4yaan/birdle) | Jogo de palavras inspirado no Wordle |
+| [**cracha_app**](https://github.com/Br4yaan/cracha_app) · [**prova_cracha_app**](https://github.com/Br4yaan/prova_cracha_app) | Tela de crachá/perfil (atividade e prova prática) |
+| [**layout_app**](https://github.com/Br4yaan/layout_app) · [**atividade_layout**](https://github.com/Br4yaan/atividade_layout) · [**prova_layout_app**](https://github.com/Br4yaan/prova_layout_app) | Layout com widgets (estudo, atividade e prova prática) |
+| [**ppdm-layout-widgets**](https://github.com/Br4yaan/ppdm-layout-widgets) | Widgets de layout (`Row`, `Column`, `Stack` e outros) |
 | [**Atividade_ppdm**](https://github.com/Br4yaan/Atividade_ppdm) | Atividades da matéria |
-| [**dartpedia**](https://github.com/Br4yaan/dartpedia) | Estudos em Dart |
 
 </details>
 
@@ -147,7 +156,7 @@ Exercícios, provas práticas e estudos da matéria, do layout básico até gere
 
 <br>
 
-Atividade de Front-End com **Bootstrap**, além da parte de interface web do MPDWorks (HTML e CSS).
+Atividade de Front-End com **Bootstrap**, além da interface web do MPDWorks (HTML e CSS).
 
 </details>
 
@@ -156,7 +165,11 @@ Atividade de Front-End com **Bootstrap**, além da parte de interface web do MPD
 
 <br>
 
-**Trabalho acadêmico em ABNT** sobre a importância dos testes de software, analisando os casos **TSB Bank** e **Volkswagen**: qualidade, verificação, validação e tipos de testes.
+**Trabalho acadêmico em ABNT: "A Importância dos Testes de Software"**
+
+Análise de dois casos reais de falha de qualidade: a **falha após a migração da infraestrutura do TSB Bank (2018)** e o caso da **Volkswagen**, cujo software identificava condições de teste de emissões. O trabalho discute os impactos e como testes e verificações adequados reduziriam os riscos.
+
+Conceitos: qualidade, verificação e validação, testes de integração, segurança, desempenho e conformidade.
 
 </details>
 
@@ -187,8 +200,8 @@ LOPAL, SOP, ARI, LER, PSOF I e II e ITCOI formaram a base de lógica, sistemas o
 
 Assistente pessoal **modular** para Windows, inspirado no JARVIS do Homem de Ferro.
 
-- **Escopo:** voz, palavra de ativação, automação do computador e memória, organizados em módulos independentes
-- **Princípios:** código limpo, documentado e seguro
+- **Escopo:** voz, palavra de ativação, automação do computador e memória, organizados em módulos independentes (`core`, `voice`, `vision`, `system`, `interface`)
+- **Princípios:** código limpo, documentado e seguro, com separação de responsabilidades
 - **Planejado para o futuro:** visão computacional e análise de tela
 
 <br>
@@ -203,8 +216,9 @@ Assistente pessoal **modular** para Windows, inspirado no JARVIS do Homem de Fer
 | **Back-End** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white) |
-| **Em estudo** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Automação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Em estudo** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
