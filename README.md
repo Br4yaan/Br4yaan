@@ -1,12 +1,12 @@
 <!--
 ===============================================================================
-  BRAYAN.DEV // GITHUB PROFILE  (v3)
+  BRAYAN.DEV // GITHUB PROFILE  (v4)
 
   ANTES DE PUBLICAR (Ctrl + H, "Substituir tudo"):
     1. SEU_LINKEDIN  -> URL completa do seu LinkedIn
     2. SEU_EMAIL     -> seu e-mail profissional
-    3. Quando o devfolio_app e o JARVIS_BR01 estiverem no GitHub,
-       procure por "EM BREVE" e troque pelo link do repositório
+    3. Quando o DevFolio App, o Simulador da Copa e o JARVIS BR-01 estiverem
+       no GitHub, procure por "EM BREVE" e troque pelo link do repositório
 ===============================================================================
 -->
 
@@ -14,7 +14,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:7C3AED,100:00F7FF&text=BRAYAN%20ALBUQUERQUE&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20Mobile%20%C2%B7%20Back-End&descAlignY=58&descSize=17&animation=fadeIn" alt="Brayan Albuquerque" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=860&lines=Construo+software+do+banco+de+dados+at%C3%A9+a+tela+do+celular;MySQL+%C2%B7+Java+%C2%B7+Flutter+%C2%B7+Dart+%C2%B7+Python+%C2%B7+PHP;Estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI;Aberto+a+est%C3%A1gio+e+primeira+oportunidade+em+DEV" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=860&lines=Do+banco+de+dados+at%C3%A9+a+tela+do+celular;MySQL+%C2%B7+PHP+%C2%B7+Flutter+%C2%B7+Dart+%C2%B7+Node.js;Estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI;Aberto+a+est%C3%A1gio+e+primeira+oportunidade+em+DEV" alt="Typing" />
 
 <br>
 
@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-15-00F7FF?style=flat-square&labelColor=050816" alt="Repositórios" />
 <img src="https://img.shields.io/badge/MAT%C3%89RIAS_CURSADAS-12-7C3AED?style=flat-square&labelColor=050816" alt="Matérias" />
 <img src="https://img.shields.io/badge/ANOS_DE_CURSO-2-2563EB?style=flat-square&labelColor=050816" alt="Anos" />
-<img src="https://img.shields.io/badge/STACKS-Mobile_%7C_Back--End_%7C_Dados-00F7FF?style=flat-square&labelColor=050816" alt="Stacks" />
 
 </div>
 
@@ -37,7 +36,7 @@
 
 Sou **estudante do 2º e último ano de Desenvolvimento de Sistemas no SENAI**, e o que me move é entender **como as coisas funcionam por baixo**: modelar dados, escrever lógica limpa e transformar isso em aplicações que alguém realmente usa.
 
-Minha base mais sólida é **banco de dados (MySQL/SQL)**. Em cima dela, construo Back-End, Front-End e **mobile com Flutter/Dart**. Aprendo fazendo: cada conteúdo da escola vira projeto, e cada projeto vai para o GitHub com commit.
+Minha base mais forte é **banco de dados**. Em cima dela construo Back-End, Front-End e **mobile com Flutter/Dart**. Aprendo fazendo: cada conteúdo da escola vira projeto, e cada projeto vai para o GitHub com commit.
 
 > **Filosofia:** aprender → praticar → construir → evoluir. Sem atalhos.
 
@@ -48,7 +47,7 @@ Minha base mais sólida é **banco de dados (MySQL/SQL)**. Em cima dela, constru
 | | |
 |---|---|
 | 🔭 **Construindo agora** | **DevFolio App** (Flutter, projeto final de PPDM) e **JARVIS BR-01** (assistente pessoal em Python) |
-| 📚 **Estudando** | Java, Back-End com banco de dados, Front-End (HTML/CSS) e arquitetura de software |
+| 📚 **Estudando** | Java, Back-End com banco de dados, Front-End e arquitetura de software |
 | 🎓 **Formação** | Técnico em Desenvolvimento de Sistemas, SENAI |
 | 💼 **Procuro** | Estágio ou primeira vaga como desenvolvedor (Back-End, Mobile ou Dados) |
 
@@ -60,58 +59,46 @@ Minha base mais sólida é **banco de dados (MySQL/SQL)**. Em cima dela, constru
 <tr>
 <td width="50%" valign="top">
 
-### 📱 DevFolio App
-**Flutter · Dart · Material**
+### 🍕 Pizzaria DB
+**Banco de Dados / Back-End · Concluído**
 
-Aplicativo mobile de portfólio profissional com **tela de perfil/crachá** (gradiente, avatar, chips de skills) e **dashboard de métricas** em grid, com cards e selos sobrepostos.
+Cadastro e gerenciamento de clientes, desenvolvido nas aulas do SENAI com **PHP e MySQL**.
 
-- Widgets **reutilizáveis** em `lib/widgets/`
-- Layout sem overflow e `ThemeData` centralizado
-- Desenvolvido em dupla, com commits frequentes
+- Conexão entre PHP e MySQL com `mysqli`
+- Cadastro, listagem e edição de registros
+- Modelagem de dados e operações **CRUD**
 
-`Em desenvolvimento` · Repositório: **EM BREVE**
+`PHP` `MySQL` `HTML`
+
+[**Ver repositório →**](https://github.com/Br4yaan/pizzaria.db)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 JARVIS BR-01
-**Python · Voz · Automação**
+### ⚽ Simulador da Fase de Grupos: Copa 2026
+**PPDM · Dart puro · CLI · Concluído**
 
-Assistente pessoal **modular** para Windows, inspirado no JARVIS: escuta voz, reconhece palavra de ativação, executa ações no computador e mantém memória.
+Simulador via terminal: registro de resultados e **classificação com os critérios oficiais de desempate**.
 
-- Módulos independentes: `core`, `voice`, `vision`, `system`, `interface`
-- Foco em **código limpo, documentado e seguro**
-- Visão computacional e análise de tela no roadmap
+- Modelagem com classes e `enum`
+- Ordenação customizada com `.sort()`
+- Carregamento assíncrono e tratamento de erros (`try/catch`)
 
-`Em desenvolvimento` · Repositório: **EM BREVE**
+`Dart`
+
+Repositório: **EM BREVE**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### ⚽ Simulador da Fase de Grupos: Copa 2026
-**Dart puro · CLI · Git**
+### 📱 DevFolio App
+**PPDM · Flutter / Dart · Em desenvolvimento**
 
-Simulador via terminal de um grupo da Copa 2026: registro de resultados e **classificação com os critérios oficiais de desempate** (saldo de gols, gols pró, confronto direto, fair play, ranking FIFA).
+Aplicativo mobile de portfólio profissional, projeto final da matéria. Reúne **tela de perfil/crachá** e **dashboard de métricas e projetos**, com widgets reutilizáveis e layout responsivo.
 
-- Modelagem com classes e `enum`
-- Ordenação customizada com `.sort()`
-- Carregamento assíncrono e tratamento de erros com `try/catch`
-
-`Concluído`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 pizzaria.db
-**PHP · Banco de dados**
-
-Projeto de pizzaria com banco de dados, desenvolvido a partir das aulas de Back-End e Banco de Dados do SENAI. Reúne modelagem, tabelas, relacionamentos e operações **CRUD** na prática.
-
-`Concluído`
-
-[**Ver repositório →**](https://github.com/Br4yaan/pizzaria.db)
+`Flutter` `Dart` `Material` · Repositório: **EM BREVE**
 
 </td>
 </tr>
@@ -119,38 +106,90 @@ Projeto de pizzaria com banco de dados, desenvolvido a partir das aulas de Back-
 
 <br>
 
-## 📦 Todos os repositórios
+## 📚 Projetos por matéria
 
-Cada atividade e prova prática das aulas vira repositório. O histórico mostra a evolução, do primeiro `git init` até gerenciamento de estado com Provider.
+<details open>
+<summary><b>🗄️ Banco de Dados e Back-End</b></summary>
 
-### 📱 Mobile · Flutter / Dart
+<br>
 
-| Repositório | O que é |
+**[Pizzaria DB](https://github.com/Br4yaan/pizzaria.db)** · `PHP` `MySQL` · Concluído
+Cadastro, listagem e edição de clientes com CRUD, conectando PHP ao MySQL.
+
+**MPDWorks: Sua Casa Sempre** · `Node.js` `Express` `MySQL` `HTML` `CSS`
+Projeto acadêmico amplo que envolve Back-End, banco de dados e interface web. Passou por mudança de estratégia de dados, de uma configuração inicial com MongoDB para scripts SQL no MySQL.
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile · PPDM (Flutter / Dart)</b></summary>
+
+<br>
+
+Exercícios, provas práticas e estudos da matéria, do layout básico até gerenciamento de estado:
+
+| Repositório | Tema |
 |:--|:--|
-| [**dartpedia**](https://github.com/Br4yaan/dartpedia) | Projeto em Dart puro |
-| [**birdle**](https://github.com/Br4yaan/birdle) | Jogo de palavras estilo Wordle em Flutter |
-| [**012-Atividade-Aula-12-Provider-ChangeNotifier**](https://github.com/Br4yaan/012-Atividade-Aula-12-Provider-ChangeNotifier) | Gerenciamento de estado com **Provider** e **ChangeNotifier** |
-| [**cep_app**](https://github.com/Br4yaan/cep_app) | App de consulta de CEP |
+| [**012-Atividade-Aula-12-Provider-ChangeNotifier**](https://github.com/Br4yaan/012-Atividade-Aula-12-Provider-ChangeNotifier) | Gerenciamento de estado com Provider e ChangeNotifier |
+| [**cep_app**](https://github.com/Br4yaan/cep_app) | Consulta de CEP |
 | [**navegacao_app**](https://github.com/Br4yaan/navegacao_app) | Navegação entre telas |
-| [**cracha_app**](https://github.com/Br4yaan/cracha_app) | Tela de crachá/perfil com layout customizado |
-| [**prova_cracha_app**](https://github.com/Br4yaan/prova_cracha_app) | Prova prática: crachá/perfil |
-| [**layout_app**](https://github.com/Br4yaan/layout_app) | Estudo de layout com widgets |
-| [**atividade_layout**](https://github.com/Br4yaan/atividade_layout) | Atividade de layout em Flutter |
-| [**prova_layout_app**](https://github.com/Br4yaan/prova_layout_app) | Prova prática: layout |
-| [**ppdm-layout-widgets**](https://github.com/Br4yaan/ppdm-layout-widgets) | Widgets de layout (Row, Column, Stack e cia.) |
-| [**Atividade_ppdm**](https://github.com/Br4yaan/Atividade_ppdm) | Atividades da matéria de PPDM |
+| [**birdle**](https://github.com/Br4yaan/birdle) | Jogo de palavras |
+| [**cracha_app**](https://github.com/Br4yaan/cracha_app) · [**prova_cracha_app**](https://github.com/Br4yaan/prova_cracha_app) | Tela de crachá/perfil |
+| [**layout_app**](https://github.com/Br4yaan/layout_app) · [**atividade_layout**](https://github.com/Br4yaan/atividade_layout) · [**prova_layout_app**](https://github.com/Br4yaan/prova_layout_app) | Layout com widgets |
+| [**ppdm-layout-widgets**](https://github.com/Br4yaan/ppdm-layout-widgets) | Widgets de layout |
+| [**Atividade_ppdm**](https://github.com/Br4yaan/Atividade_ppdm) | Atividades da matéria |
+| [**dartpedia**](https://github.com/Br4yaan/dartpedia) | Estudos em Dart |
 
-### 🗄️ Banco de dados e Back-End
+</details>
 
-| Repositório | O que é |
-|:--|:--|
-| [**pizzaria.db**](https://github.com/Br4yaan/pizzaria.db) | PHP + banco de dados, código das aulas do SENAI |
+<details>
+<summary><b>🌐 Front-End · PEND</b></summary>
 
-### 🧰 Versionamento
+<br>
 
-| Repositório | O que é |
-|:--|:--|
-| [**AulaGitT3**](https://github.com/Br4yaan/AulaGitT3) | Primeiros passos com Git |
+Atividade de Front-End com **Bootstrap**, além da parte de interface web do MPDWorks (HTML e CSS).
+
+</details>
+
+<details>
+<summary><b>🧪 Testes de Software · TSOF</b></summary>
+
+<br>
+
+**Trabalho acadêmico em ABNT** sobre a importância dos testes de software, analisando os casos **TSB Bank** e **Volkswagen**: qualidade, verificação, validação e tipos de testes.
+
+</details>
+
+<details>
+<summary><b>🧰 Versionamento · Git</b></summary>
+
+<br>
+
+**[AulaGitT3](https://github.com/Br4yaan/AulaGitT3)**: primeiros passos com Git.
+
+</details>
+
+<details>
+<summary><b>🧱 Fundamentos e Projetos de Software</b></summary>
+
+<br>
+
+LOPAL, SOP, ARI, LER, PSOF I e II e ITCOI formaram a base de lógica, sistemas operacionais, redes, requisitos, planejamento de projetos e IoT que sustenta os projetos acima. Veja os conteúdos na [jornada abaixo](#-jornada-no-senai).
+
+</details>
+
+<br>
+
+## 🤖 Projeto pessoal
+
+### JARVIS BR-01
+**Python · Em desenvolvimento · Repositório: EM BREVE**
+
+Assistente pessoal **modular** para Windows, inspirado no JARVIS do Homem de Ferro.
+
+- **Escopo:** voz, palavra de ativação, automação do computador e memória, organizados em módulos independentes
+- **Princípios:** código limpo, documentado e seguro
+- **Planejado para o futuro:** visão computacional e análise de tela
 
 <br>
 
@@ -161,11 +200,11 @@ Cada atividade e prova prática das aulas vira repositório. O histórico mostra
 | Categoria | Tecnologias |
 |:--|:--|
 | **Banco de dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white) |
-| **Linguagens** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white) |
-| **Ambientes** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Codespaces](https://img.shields.io/badge/Codespaces-181717?style=flat-square&logo=github&logoColor=white) |
+| **Back-End** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white) |
+| **Em estudo** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 </div>
 
@@ -193,11 +232,11 @@ flowchart LR
 ```
 
 <details>
-<summary><b>Ver o que trabalhei em cada matéria</b></summary>
+<summary><b>Ver o que estudei em cada matéria</b></summary>
 
 <br>
 
-| Matéria | O que trabalhei |
+| Matéria | Conteúdo |
 |:--|:--|
 | **LOPAL** · Lógica e Algoritmos | Variáveis, condições, repetições e raciocínio computacional |
 | **SOP** · Sistemas Operacionais | Terminal, ambientes e fundamentos de infraestrutura |
@@ -207,9 +246,9 @@ flowchart LR
 | **PBE I e II** · Back-End | Lógica de aplicações, integração com dados, serviços e APIs |
 | **PEND** · Front-End | Estrutura de interfaces com HTML e CSS |
 | **PSOF I e II** · Projetos de Software | Planejamento, documentação e construção de projetos |
-| **TSOF** · Testes de Software | Detecção de falhas, validação e qualidade |
+| **TSOF** · Testes de Software | Qualidade, verificação, validação e tipos de testes |
 | **ITCOI** · Internet das Coisas | Conceitos de IoT e integração de dispositivos |
-| **PPDM** · Desenvolvimento Mobile | Dart e Flutter: widgets, layout, navegação, estado com Provider e persistência |
+| **PPDM** · Desenvolvimento Mobile | Dart e Flutter: widgets, layout, navegação e estado com Provider |
 
 </details>
 
@@ -217,22 +256,10 @@ flowchart LR
 
 ## 🧠 Como eu trabalho
 
-```mermaid
-flowchart LR
-    A[💡 Ideia] --> B[📋 Requisitos]
-    B --> C[🗄️ Modelagem]
-    C --> D[⚙️ Código]
-    D --> E[🧪 Testes]
-    E --> F[🐞 Debug]
-    F --> G[📦 Commit]
-    G --> A
-```
-
 - **Código limpo e legível.** Nomes claros, funções pequenas, comentários onde fazem diferença.
 - **Modular por padrão.** Cada parte do sistema com uma responsabilidade.
 - **Commits frequentes e descritivos.** O histórico conta a história do projeto.
 - **Teste antes de subir.** Valido localmente antes de publicar.
-- **Qualidade desde o começo,** não como remendo no final.
 
 <br>
 
@@ -265,8 +292,8 @@ flowchart LR
 |:-:|:--|
 | ✅ | Lógica de programação, banco de dados, MySQL/SQL, Git e GitHub |
 | ✅ | Flutter: layout, navegação e gerenciamento de estado com Provider |
-| 🔄 | Java, HTML, CSS, Back-End e Front-End |
 | 🔄 | Concluir o **DevFolio App** e evoluir o **JARVIS BR-01** |
+| 🔄 | Java, Back-End e Front-End |
 | ⏳ | Aplicações completas integradas a banco de dados |
 | ⏳ | Aprofundar arquitetura de software e testes automatizados |
 | 🎯 | **Primeira oportunidade profissional como desenvolvedor** |
